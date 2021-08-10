@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  --tw-bg-opacity: 1;
+  background-color: rgba(147, 197, 253, var(--tw-bg-opacity));
+}
+
+button {
+  border-radius: 0.5rem;
+  padding: 0.4rem 1rem;
+  margin: 0rem 0.7rem;
+  --tw-bg-opacity: 1;
+  background-color: rgba(147, 197, 253, var(--tw-bg-opacity));
+
+  hr {
+    width: 50%;
+    margin: auto;
+  }
+}
